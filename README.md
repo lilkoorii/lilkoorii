@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lilkoorii
-- 👀 I’m interested in web design
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Frontend Development!
 - 💞️ I’m looking to collaborate on interesting web projects!
 - 📫 How to reach me: Maria Loschakova on LinkedIn
